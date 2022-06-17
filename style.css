@@ -74,8 +74,10 @@ h2{
 text-align: center;
 }
 .greet{
-    color: aquamarine;
+    color: rgb(8, 92, 64);
     padding: 2rem 0.6rem;
+    font: bold;
+    font-size: 1rem;
 }
 .btn{
     border-radius: 20px;
